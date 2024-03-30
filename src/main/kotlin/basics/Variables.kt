@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     var name: String = "FooBar"
     var number: Int = 42

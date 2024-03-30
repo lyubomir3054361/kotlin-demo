@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     var brandVar = "FooBar"
     println(brandVar)

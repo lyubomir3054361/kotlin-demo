@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     var n = 42
     var l = 10000000000L

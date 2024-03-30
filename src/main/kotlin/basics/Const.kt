@@ -1,3 +1,5 @@
+package basics
+
 const val PI = 3.14 // static final
 val pi = getPiValue()
 

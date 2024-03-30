@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     var number: Any = 42
     println(number)
